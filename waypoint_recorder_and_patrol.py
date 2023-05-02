@@ -6,7 +6,7 @@ from geometry_msgs.msg import PoseWithCovarianceStamped
 import actionlib
 from move_base_msgs.msg import MoveBaseAction, MoveBaseGoal
 
-
+#https://drive.google.com/file/d/1semDco4h72GzKqOr40qNGQ_-7NgV0pQA/view?usp=share_link
 
 waypoints = []
 
